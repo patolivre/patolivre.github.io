@@ -11,7 +11,9 @@ url: http://127.0.0.1:4000
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Logo PatoLivre
+  name: PatoLivre
+  #inserir image na pasta assets/img
+  image_top: logo.png
   # Little description about your site
   description:  PatoLivre Hacker Club
   # 'meta_description:' Write an awesome description for your new site here.
