@@ -1,17 +1,17 @@
 # Harmony Jekyll theme general configurations
 
 # Base URL
-# baseurl: /patolivre
+baseurl: ''
 
 # Site live URL
-# url: http://patolivre.tk
+url: http://patolivre.tk
 
 # Localhost
-url: http://127.0.0.1:4000
+# url: http://127.0.0.1:4000
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: PatoLivre
+  name: PatoLivre Hacker Club
   #inserir image na pasta assets/img
   image_top: logo.png
   # Little description about your site
