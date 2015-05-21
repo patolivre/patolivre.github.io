@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Manifesto"
-date:   2015-05-18 23:58
+title: "Manifesto"
+date: 2015-05-18 23:58
 description: PatoLivre Hacker Club
 ---
 
