@@ -4,4 +4,4 @@ title: Agenda
 permalink: /agenda/
 ---
 
-Em breve.
+* 30-05-15 (sábado): Encontro mensal
