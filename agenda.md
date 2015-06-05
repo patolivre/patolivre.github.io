@@ -4,4 +4,5 @@ title: Agenda
 permalink: /agenda/
 ---
 
-* 30-05-15 (sábado): Encontro mensal
+* Encontro mensal: todo último sábado do mês (o local é definido na lista de discussão)
+* #horaextra: toda sexta-feira no posto Panda
