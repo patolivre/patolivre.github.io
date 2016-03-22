@@ -344,6 +344,9 @@ section header h2 {
     }
 
 }
-
+.speakers img {
+    width: 200px;
+    border-radius: 100%;
+}
 
 /* Fim Customização */
