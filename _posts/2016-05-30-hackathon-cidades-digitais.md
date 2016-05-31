@@ -17,3 +17,5 @@ O evento iniciará às 19 horas do dia 10/6/2016 (sexta) no hall de entrada do P
 
 Você sabe que isso tudo é para você? Então [inscreva-se agora mesmo!](http://patolivre.tk/hackathon)
 Venha fazer parte desse marco hacker histórico! :-)
+
+Informações: [http://patolivre.tk/hackathon](http://patolivre.tk/hackathon)
