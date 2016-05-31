@@ -2,7 +2,7 @@
 layout: post
 title: "Hackathon Cidades Digitais"
 date: 2016-05-30 22:45
-description: 1º Hackathon PatoLivre: Cidades Digitais
+description: Hackathon PatoLivre Cidades Digitais
 ---
 
 Os últimos meses foram extremamente importantes para a história digital de Pato Branco.
