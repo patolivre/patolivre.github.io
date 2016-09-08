@@ -15,7 +15,7 @@ Em 25 horas, 25 participantes trabalharão frenéticamente no desenvolvimento de
 
 O evento iniciará às 19 horas do dia 10/6/2016 (sexta) no hall de entrada do Parque Tecnológico e sendo encerrado às 21 horas, no dia 11/6/2016 (sábado). O valor da inscrição (para custear a alimentação e outras questões organizacionais) será de R$ 25,00 e será limitadíssimo a apenas 25 pessoas!!!
 
-Você sabe que isso tudo é para você? Então [inscreva-se agora mesmo!](http://patolivre.tk/hackathon)
+Você sabe que isso tudo é para você? Então [inscreva-se agora mesmo!](http://patolivre.org/hackathon)
 Venha fazer parte desse marco hacker histórico! :-)
 
-Informações: [http://patolivre.tk/hackathon](http://patolivre.tk/hackathon)
+Informações: [http://patolivre.org/hackathon](http://patolivre.org/hackathon)
