@@ -25,5 +25,5 @@ Para enviar sua proposta basta preencher o formulário abaixo:
 
 **Let's hack!**
 
-[PatoLivre Hacker Club]: http://patolivre.tk
+[PatoLivre Hacker Club]: http://patolivre.org
 [cultura hacker]: http://pt.wikipedia.org/wiki/Cultura_hacker
